@@ -1,3 +1,10 @@
+# Migration
+
+> [!CAUTION]
+> The `bootc-image-builder` repository has been merged into the [`image-builder`](https://github.com/osbuild/image-builder) repository. All issues have been migrated and this repository has been archived.
+
+---
+
 # bootc-image-builder
 
 A container to create disk images from [bootc](https://github.com/containers/bootc) container inputs,
